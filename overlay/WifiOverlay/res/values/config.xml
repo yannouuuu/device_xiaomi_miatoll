@@ -49,9 +49,6 @@
     <!-- Disable WPA2 to WPA3 auto-upgrade -->
     <bool name="config_wifiSaeUpgradeEnabled">false</bool>
 
-    <!-- Wifi driver supports WPA3 Simultaneous Authentication of Equals (WPA3-SAE) for softap -->
-    <bool name="config_wifi_softap_sae_supported">true</bool>
-
     <!-- Wifi driver Automatic channel selection (ACS) for softap to include DFS channels -->
     <bool name="config_wifiSoftapAcsIncludeDfs">true</bool>
 
