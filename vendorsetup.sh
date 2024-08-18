@@ -24,6 +24,6 @@ git clone https://github.com/c0smic-Lab/vendor_xiaomi_miuicamera vendor/xiaomi/m
 ./vendor/xiaomi/miuicamera/vendorsetup.sh
 
 echo -e "${color}Cloning Dolby${end}"
-git clone https://github.com/veux-frost-testzone/hardware_dolby hardware/dolby
+git clone https://github.com/ihsanulrahman/hardware_dolby -b 14 hardware/dolby
 
 sleep 1
